@@ -1,7 +1,7 @@
 # README
 self-introdution
 
-I'm a secont-year CSIE student
+I'm a second-year CSIE student
 I like to do some side-projects, I make all project in MYprogram repository
 I also enjoy programming contests
 
