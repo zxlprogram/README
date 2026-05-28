@@ -14,7 +14,7 @@ TQC+: DSA/OOP lang(Java 17)
 IPPEC level 4
 Recycling worker
 ITSA monthly competition PR 89
-YZU Transfer exam(STEM) rk.?(ROC-era 115 winter vacation)
+YZU Transfer exam(STEM) rk.12(ROC-era 115 winter vacation)
 CYCU Transfer exam(CSIE) rk.1(ROC-era 115 winter vacation)
 YZU Transfer exam(STEM) rk.29(ROC-era 114 summer vacation)
 ```
